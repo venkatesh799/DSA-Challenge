@@ -1,2 +1,2 @@
 # DSA-Challenge
-Solving DSA frequently asked DSA problems in MAANG comapnies
+Solving frequently asked DSA problems in MAANG comapnies
